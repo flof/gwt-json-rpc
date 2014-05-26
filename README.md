@@ -1,5 +1,5 @@
 Notice: This is an old project and it is not relevant any more. I uploaded it
-to GitHub because it shut down the original homepage of the project.
+to GitHub because I shut down the original homepage of the project.
 
 # gwt-json-rpc
 
